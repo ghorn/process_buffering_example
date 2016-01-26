@@ -1,0 +1,5 @@
+*.hi
+*.o
+call_other_process
+print_stdout_buffering
+test.log
